@@ -4,6 +4,7 @@ Small template for JavaScript front-end applications.
 * Bundles JavaScript modules
 * JavaScript modules resolve to src
 
+Install:
 ```
 npm install
 ```
